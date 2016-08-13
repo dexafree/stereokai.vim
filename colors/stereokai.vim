@@ -18,7 +18,7 @@ highlight CursorLine ctermfg=NONE ctermbg=59 cterm=NONE guifg=NONE guibg=#373736
 highlight CursorLineNR ctermfg=231 ctermbg=NONE cterm=NONE guifg=#f8f8f2 guibg=NONE gui=NONE
 highlight CursorColumn ctermfg=NONE ctermbg=59 cterm=NONE guifg=NONE guibg=#373736 gui=NONE
 highlight ColorColumn ctermfg=NONE ctermbg=59 cterm=NONE guifg=NONE guibg=#373736 gui=NONE
-highlight LineNr ctermfg=245 ctermbg=NONE cterm=NONE guifg=#75715e guibg=#373736 gui=NONE
+highlight LineNr ctermfg=11 ctermbg=NONE cterm=NONE guifg=#75715e guibg=#373736 gui=NONE
 highlight VertSplit ctermfg=59 ctermbg=59 cterm=NONE guifg=#5f5f5e guibg=#5f5f5e gui=NONE
 highlight MatchParen ctermfg=197 ctermbg=238 cterm=NONE guifg=#f92672 guibg=#5f5f5e gui=NONE
 highlight StatusLine ctermfg=231 ctermbg=59 cterm=NONE guifg=#f8f8f2 guibg=#5f5f5e gui=NONE
